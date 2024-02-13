@@ -7,7 +7,7 @@ The source code and generated images are released under the [CC BY-SA license](h
 ![CC BYC-SA](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
 
 ## Google Colabs
-* [Shap-E Text to 3D:_Dolphin]([https://colab.research.google.com/github/robgon-art/CLIPandPASTE/blob/main/CLIP_and_PASTE.ipynb](https://github.com/robgon-art/molding-the-imagination/blob/main/Shap_E_Text_to_3d_Dolphin.ipynb))
+* [Shap-E Text to 3D: Dolphin](https://github.com/robgon-art/molding-the-imagination/blob/main/Shap_E_Text_to_3d_Dolphin.ipynb)
 
 ## Citation
 To cite this repository:
