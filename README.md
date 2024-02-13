@@ -8,6 +8,7 @@ The source code and generated images are released under the [CC BY-SA license](h
 
 ## Google Colabs
 * [Shap-E Text to 3D: Dolphin](https://github.com/robgon-art/molding-the-imagination/blob/main/Shap_E_Text_to_3d_Dolphin.ipynb)
+* [MVDream: Cubist Head](https://colab.research.google.com/github/robgon-art/molding-the-imagination/blob/main/MVDream_Cubist_Head.ipynb)
 
 ## Citation
 To cite this repository:
